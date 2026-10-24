@@ -4,6 +4,7 @@ Projet PowerShell : inventaire, controle de conformite et notification pour un p
 
 **Auteurs :** Enzo JUZYNA, Hugo JUZYNA - Promo 2028 - annee 2026/2027
 **Enseignant :** Salim Benayoune
+**Vidéo :** https://drive.google.com/file/d/1zwJYuH_oA5gq6zI8J3T3ySyl5_QaIl2P/view?usp=sharing
 
 ## Environnement de test
 
